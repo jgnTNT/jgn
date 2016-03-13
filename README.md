@@ -1,1 +1,1 @@
-jgnTNT.com
+jgn.github.com
